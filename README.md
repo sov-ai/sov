@@ -1,2 +1,3 @@
 # sov
-sov ai
+sov ai is
+share of value artificial intelligence
